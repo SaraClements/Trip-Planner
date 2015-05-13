@@ -1,7 +1,7 @@
 *{
 	font: verdana;
 
-	color: #1F2E2E;
+	color: #22272B;
 
 }
 
@@ -74,6 +74,7 @@ h3{
 	border-style: inset;
 	padding: 7px;
 	border-width: 10px;
+	border-color: #CC9900;
 	
 }
 
