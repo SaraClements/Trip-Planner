@@ -1,0 +1,118 @@
+*{
+	font: verdana;
+
+	color: #1F2E2E;
+
+}
+
+.wrapper{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 900px;
+	background-color: #FFFFCC;
+	padding: 25px;
+}
+
+
+body{
+	background-image: url("ylwbk.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 5%;
+}
+
+h1{
+	border-style: solid;
+	border-color: #1F2E2E;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.navbar ul{
+	width: 100%;
+
+}
+
+.navunits{
+	margin-left: 28%;
+}
+
+.navbar li{
+	list-style-type: none;
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #1F2E2E;
+	border-radius:75px;
+	/* background-color: #CF2900;*/
+	background-color: #CC9900;
+	color: #FFFFCC;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 100px;
+	font-size: 1.25em;
+
+}
+
+.navbar a{
+	text-decoration: none;
+	background-color: #8A2E2E;
+
+
+}
+
+h3{
+	text-weight: bold;
+}
+
+.pic{
+	float: right;
+	margin-right: 7%;
+	border-style: inset;
+	padding: 7px;
+	border-width: 10px;
+	
+}
+
+.links ul{
+	list-style-type: lower-roman;
+}
+
+
+.links a:link{
+	text-decoration: none;
+}
+
+.links li:hover{
+	background-color: #CC9900;
+	border-style: solid;
+	border-color: #1F2E2E;
+	color: #FFFFCC;
+}
+
+
+.links li{
+	padding: 15px;
+	width: 150px;
+	border-radius: 10px;
+}
+
+
+
+#map{
+	
+}
+
+table{
+	border-style: double;
+}
+
+th, td{
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	padding: 2px
+}
